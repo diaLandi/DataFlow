@@ -1,0 +1,16 @@
+{
+  "name": "dataflow",
+  "version": "1.0.0",
+  "description": "This is a powerful AI organizer like Notion",
+  "license": "ISC",
+  "author": "diaLandi, FeuerSimonstern",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "devDependencies": {
+    "electron": "^45.2.2"
+  }
+}
